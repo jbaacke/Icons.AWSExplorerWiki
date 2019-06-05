@@ -1,0 +1,29 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+name: $(BuildDefinitionName).$(Date:yyMMdd)$(Rev:.r)
+
+trigger:
+- master
+
+pool:
+  vmImage: 'ubuntu-16.04'
+
+steps:
+- checkout: self
+  clean: true
+  persistCredentials: true
+
+- task: CopyFiles@2
+  displayName: 'Set up Staging directory'
+  inputs:
+    SourceFolder: '$(Build.SourcesDirectory)'
+    TargetFolder: '$(Build.ArtifactStagingDirectory)'
+
+- task: PublishPipelineArtifact@0
+  displayName: 'Upload Artifact'
+  inputs:
+    targetPath: $(Build.ArtifactStagingDirectory)
+    artifactName: 'terraform_templates' 
