@@ -10270,5 +10270,100 @@
         "_canonical_uri":  "https://icons.awsexplorerwiki.com/Icons/AWS/Light-BG/_Group Icons/VPC-subnet-public_light-bg.png",
         "title":  "Icons.AWSExplorerWiki/Icons/AWS/Light-BG/_Group Icons/VPC-subnet-public_light-bg.png",
         "awsexplorerwiki_icon_path":  "Icons/AWS/Light-BG/_Group Icons/VPC-subnet-public_light-bg.png"
+    },
+    {
+        "tags":  "$:/tags/Image Icons.AWSExplorerWiki.FriendlyIcons",
+        "title":  "Person Icon",
+        "text":  "{{Icons.AWSExplorerWiki/Icons/AWS/Light-BG/_General AWS/AWS-General_User_light-bg.png}}"
+    },
+    {
+        "tags":  "$:/tags/Image Icons.AWSExplorerWiki.FriendlyIcons",
+        "title":  "Group Icon",
+        "text":  "{{Icons.AWSExplorerWiki/Icons/AWS/Light-BG/_General AWS/AWS-General_Users_light-bg.png}}"
+    },
+    {
+        "tags":  "$:/tags/Image Icons.AWSExplorerWiki.FriendlyIcons",
+        "title":  "EC2 Instance Icon",
+        "text":  "{{Icons.AWSExplorerWiki/Icons/AWS/Light-BG/Compute/_EC2 Instance Types/Amazon-EC2_Instance_light-bg.png}}"
+    },
+    {
+        "tags":  "$:/tags/Image Icons.AWSExplorerWiki.FriendlyIcons",
+        "title":  "Elastic IP Icon",
+        "text":  "{{Icons.AWSExplorerWiki/Icons/AWS/Light-BG/Compute/Amazon-EC2_Elastic-IP-Address_light-bg.png}}"
+    },
+    {
+        "tags":  "$:/tags/Image Icons.AWSExplorerWiki.FriendlyIcons",
+        "title":  "Lambda Function Icon",
+        "text":  "{{Icons.AWSExplorerWiki/Icons/AWS/Light-BG/Compute/AWS-Lambda_Lambda-Function_light-bg.png}}"
+    },
+    {
+        "tags":  "$:/tags/Image Icons.AWSExplorerWiki.FriendlyIcons",
+        "title":  "DynamoDB Table Icon",
+        "text":  "{{Icons.AWSExplorerWiki/Icons/AWS/Light-BG/Database/Amazon-DynamoDB_Table_light-bg.png}}"
+    },
+    {
+        "tags":  "$:/tags/Image Icons.AWSExplorerWiki.FriendlyIcons",
+        "title":  "IOT Certificate Icon",
+        "text":  "{{Icons.AWSExplorerWiki/Icons/AWS/Light-BG/Internet of Things/IoT_Certificate-Manager_light-bg.png}}"
+    },
+    {
+        "tags":  "$:/tags/Image Icons.AWSExplorerWiki.FriendlyIcons",
+        "title":  "Hosted Zone Icon",
+        "text":  "{{Icons.AWSExplorerWiki/Icons/AWS/Light-BG/Networking \u0026 Content Delivery/Amazon-Route-53_Hosted-Zone_light-bg.png}}"
+    },
+    {
+        "tags":  "$:/tags/Image Icons.AWSExplorerWiki.FriendlyIcons",
+        "title":  "Route Table Icon",
+        "text":  "{{Icons.AWSExplorerWiki/Icons/AWS/Light-BG/Networking \u0026 Content Delivery/Amazon-Route-53_Route-Table_light-bg.png}}"
+    },
+    {
+        "tags":  "$:/tags/Image Icons.AWSExplorerWiki.FriendlyIcons",
+        "title":  "Internet Gateway Icon",
+        "text":  "{{Icons.AWSExplorerWiki/Icons/AWS/Light-BG/Networking \u0026 Content Delivery/Amazon-VPC_Internet-Gateway_light-bg.png}}"
+    },
+    {
+        "tags":  "$:/tags/Image Icons.AWSExplorerWiki.FriendlyIcons",
+        "title":  "NAT Gateway Icon",
+        "text":  "{{Icons.AWSExplorerWiki/Icons/AWS/Light-BG/Networking \u0026 Content Delivery/Amazon-VPC_NAT-Gateway_light-bg.png:}}"
+    },
+    {
+        "tags":  "$:/tags/Image Icons.AWSExplorerWiki.FriendlyIcons",
+        "title":  "Certificate Manager Certificate Icon",
+        "text":  "{{Icons.AWSExplorerWiki/Icons/AWS/Light-BG/Security, Identity, and Compliance/AWS-Certificate-Manager_Certificate-Manager_light-bg.png}}"
+    },
+    {
+        "tags":  "$:/tags/Image Icons.AWSExplorerWiki.FriendlyIcons",
+        "title":  "Access Key Icon",
+        "text":  "{{Icons.AWSExplorerWiki/Icons/AWS/Light-BG/Security, Identity, and Compliance/AWS-Identity-and-Access-Management-IAM_Add-on_light-bg.png}}"
+    },
+    {
+        "tags":  "$:/tags/Image Icons.AWSExplorerWiki.FriendlyIcons",
+        "title":  "IAM Policy Icon",
+        "text":  "{{Icons.AWSExplorerWiki/Icons/AWS/Light-BG/Security, Identity, and Compliance/AWS-Identity-and-Access-Management-IAM_Permissions_light-bg.png}}"
+    },
+    {
+        "tags":  "$:/tags/Image Icons.AWSExplorerWiki.FriendlyIcons",
+        "title":  "IAM Role Icon",
+        "text":  "{{Icons.AWSExplorerWiki/Icons/AWS/Light-BG/Security, Identity, and Compliance/AWS-Identity-and-Access-Management-IAM_Role_light-bg.png}}"
+    },
+    {
+        "tags":  "$:/tags/Image Icons.AWSExplorerWiki.FriendlyIcons",
+        "title":  "S3 Bucket Icon",
+        "text":  "{{Icons.AWSExplorerWiki/Icons/AWS/Light-BG/Storage/Amazon-Simple-Storage-Service-S3_Bucket_light-bg.png}}"
+    },
+    {
+        "tags":  "$:/tags/Image Icons.AWSExplorerWiki.FriendlyIcons",
+        "title":  "S3 Object Icon",
+        "text":  "{{Icons.AWSExplorerWiki/Icons/AWS/Light-BG/Storage/Amazon-Simple-Storage-Service-S3_Object_light-bg.png}}"
+    },
+    {
+        "tags":  "$:/tags/Image Icons.AWSExplorerWiki.FriendlyIcons",
+        "title":  "CloudFront Distribution Icon",
+        "text":  "{{Icons.AWSExplorerWiki/Icons/AWS/Dark-BG/Networking \u0026 Content Delivery/Amazon-CloudFront_Download-Distribution_dark-bg.png}}"
+    },
+    {
+        "tags":  "$:/tags/Image Icons.AWSExplorerWiki.FriendlyIcons",
+        "title":  "CloudFormation Stack Icon",
+        "text":  "{{Icons.AWSExplorerWiki/Icons/AWS/Light-BG/Management \u0026 Governance/AWS-CloudFormation_Stack_light-bg.png}}"
     }
 ]
